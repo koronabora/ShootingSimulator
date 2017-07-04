@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sound/0.wav</file>
+        <file>Sound/-1.wav</file>
+        <file>Sound/5.wav</file>
+        <file>Sound/6.wav</file>
+        <file>Sound/7.wav</file>
+        <file>Sound/8.wav</file>
+        <file>Sound/9.wav</file>
+        <file>Sound/10.wav</file>
+        <file>Sound/ak.wav</file>
+        <file>Sound/beep200.wav</file>
+        <file>Sound/beep600.wav</file>
+        <file>Sound/finished.wav</file>
+        <file>Sound/hour1.wav</file>
+        <file>Sound/hour2.wav</file>
+        <file>Sound/hour3.wav</file>
+        <file>Sound/hour4.wav</file>
+        <file>Sound/hour5.wav</file>
+        <file>Sound/hour6.wav</file>
+        <file>Sound/hour7.wav</file>
+        <file>Sound/hour8.wav</file>
+        <file>Sound/hour9.wav</file>
+        <file>Sound/hour10.wav</file>
+        <file>Sound/hour11.wav</file>
+        <file>Sound/hour12.wav</file>
+        <file>Sound/pm.wav</file>
+        <file>Sound/reset_m.wav</file>
+        <file>Sound/started.wav</file>
+        <file>Sound/silence.wav</file>
+        <file>logo.ico</file>
+        <file>Resources/ct.ui</file>
+        <file>Resources/MenuWindow.ui</file>
+        <file>Resources/Settings.ui</file>
+        <file>Resources/ShotCountChooser.ui</file>
+        <file>Resources/Target.ui</file>
+        <file>Resources/ReportsWizard.ui</file>
+    </qresource>
+</RCC>
